@@ -14,3 +14,4 @@ For number 6, I made a panda class that is inherited from the animal class. It h
   There is a constructor which takes in the name and age  
   There are getters and setters in the panda class too <br>
   Results of the code:
+<img src="result.png">
