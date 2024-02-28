@@ -13,6 +13,13 @@ For number 6, I made a panda class that is inherited from the animal class. It h
   There are multiple get_type and get_population which is present in both the animal class and the panda class. Overriding occurs in the process which is a form of polymorphism. | | Polymorphism <br>  
   There is a constructor which takes in the name and age  
   There are getters and setters in the panda class too <br>
+
+  Code:
+
+  <img src="code1.png">
+
+  <img src="code2.png">
+
   
   Results of the code: <br>
 
