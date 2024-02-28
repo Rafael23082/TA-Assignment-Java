@@ -1,5 +1,5 @@
 # TA-Assignment-Java
-TA Assignment Java
+TA Assignment Java<br>
 For number 6, I made a panda class that is inherited from the animal class. It has its own methods and information.
 
 1. O(1)
